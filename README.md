@@ -1,2 +1,2 @@
 # THA101-G6
-Let's go skiing
+測試版
