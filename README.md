@@ -1,2 +1,2 @@
 # THA101-G6
-此為上課測試版
+Git testing
